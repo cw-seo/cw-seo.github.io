@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-type: categories
-title: Categories
-permalink: /categories/
+type: research
+title: Research
+permalink: /research/
 ---
